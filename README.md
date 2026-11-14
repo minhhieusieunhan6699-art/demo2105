@@ -1,1 +1,2 @@
 hello teacher
+bye teacher
